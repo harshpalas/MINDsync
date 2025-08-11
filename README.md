@@ -74,10 +74,6 @@ MindSync7 helps users:
 ## 📦 Getting Started
 
 1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/mindsync7.git
-   cd mindsync7
-   ```
 
 2. **Install dependencies:**
    ```sh
